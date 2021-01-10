@@ -1,0 +1,5 @@
+- 2021-01-10 01:09:16
+- Starting node found in position 519833.
+- Target node found in position 461929.
+- Solution found, with distance 958815.812168 meters.
+- Time of algorithm: 13.514937 seconds
