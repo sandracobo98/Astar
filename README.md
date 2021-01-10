@@ -3,7 +3,7 @@
 
 (MSc. Modelling for Science and Technology)
 
-The aim of this project is the implementation of a pathfinding algorithm to solve an graph optimization problem. 
+The aim of this project is the implementation of a pathfinding algorithm to solve an graph optimization problem in C. 
 
 Concretly we optimize the best routefromo Basílica de Santa Maria del Mar (Plaça de Santa Maria) in Barcelona to La Giralda (Calle Mateos Gago) in Sevilla using the AStar algorithm.
 
