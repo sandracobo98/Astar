@@ -1,5 +1,7 @@
 
-# A-star algorithm implementation for finding the shortest route (MSc. Modelling for Science and Technology).
+# A-star algorithm implementation for finding the shortest route 
+
+(MSc. Modelling for Science and Technology)
 
 The aim of this project is the implementation of a pathfinding algorithm to solve an graph optimization problem. 
 
