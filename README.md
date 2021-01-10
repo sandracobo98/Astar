@@ -13,7 +13,7 @@ Concretly we optimize the best routefromo Bas√≠lica de Santa Maria del Mar (Pla√
 - Sandra Cobo
 - Saioa Etxebarria
 
-# Program code
+# Documents
 
 - read_write.c: It contains the code that read the spain.csv, save the information in the correspoding structure and write the binary file.
 - Astar.c: It read the binary file and find the optimal path between our start and target node.
